@@ -1,3 +1,15 @@
+<!-- BBN:HEADER:START -->
+<div align="center">
+
+<img src=".github/brand/banner.svg" width="100%" alt="Grok Bot × BBNW — Free 4-bot AI agent team template following BBNW" />
+
+<a href="https://github.com/Boom-Vitt/grok-bot-bbnw-template/stargazers"><img src="https://img.shields.io/github/stars/Boom-Vitt/grok-bot-bbnw-template?style=flat-square&color=14b8a6&labelColor=0b1220" alt="stars" /></a>
+<a href="https://github.com/Boom-Vitt/grok-bot-bbnw-template/commits/main"><img src="https://img.shields.io/github/last-commit/Boom-Vitt/grok-bot-bbnw-template?style=flat-square&color=14b8a6&labelColor=0b1220" alt="last commit" /></a>
+<a href="https://github.com/Boom-Vitt"><img src="https://img.shields.io/badge/by-BoomBigNose-14b8a6?style=flat-square&labelColor=0b1220" alt="by BoomBigNose" /></a>
+
+</div>
+<!-- BBN:HEADER:END -->
+
 # Grok Bot × BBNW — Template ทีมพนักงาน AI 24/7 (ฟรี)
 โดย BoomBigNose · kruoop.com
 
@@ -153,3 +165,15 @@ New → เลือก Bot ทั้ง 4 ตัว → ตั้งชื่�
 
 รอบหน้า: Grok Bot ตัดต่อวิดีโอ, สร้างหนังจีนแนวตั้ง, เล่าเรื่องผีพร้อมรูปและ footage
 สร้างรายได้ ติดตามได้ที่ kruoop.com และเพจ Boom Big Nose
+
+<!-- BBN:FOOTER:START -->
+---
+
+<div align="center">
+
+**สร้างโดย [BoomBigNose](https://github.com/Boom-Vitt)** · [Kruoop.com](https://kruoop.com) แหล่งเรียน AI + คอมมูนิตี้ · [Seeneo.ai](https://seeneo.ai) · [YouTube 220K](https://www.youtube.com/@BoomBigNose)
+
+<sub>ถ้าโปรเจกต์นี้มีประโยชน์ กด ⭐ ให้กำลังใจกันได้เลย</sub>
+
+</div>
+<!-- BBN:FOOTER:END -->
